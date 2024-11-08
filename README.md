@@ -10,7 +10,14 @@
   - [Data Sources](#data-sources)
 
 ## Overview
-This project is a data analysis and visualization project focused on e-commerce public data. It includes code for data wrangling, exploratory data analysis (EDA), and a Streamlit dashboard for interactive data exploration. This project aims to analyze data on the E-Commerce Public Dataset.
+OptiLens is a mobile app designed for the early detection and classification of cataracts through image processing. It addresses the global issue of visual impairment caused by cataracts, particularly in underserved areas with limited access to ophthalmological resources.
+
+The app features two main functions:
+
+Automated Cataract Classification: Using advanced image processing algorithms, OptiLens identifies the severity of cataracts, providing immediate insights into users' conditions.
+Manual Refractive Clarity Assessment: A simple visual test allows users to monitor changes in their vision quality over time, encouraging proactive eye health management.
+
+By combining these tools, OptiLens empowers individuals with a user-friendly self-assessment tool, aiming to enhance accessibility to eye care and reduce the risk of blindness from delayed treatment.
 
 ## Project Structure
 
