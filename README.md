@@ -1,5 +1,5 @@
 ## Table of Contents
-- [E-Commerce Data Analysis with Python](#e-commerce-data-analysis-with-python)
+- [OptiLens: See the Future Clearly](#optilens:-see-the-future-clearly)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Project Structure](#project-structure)
