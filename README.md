@@ -15,6 +15,7 @@ OptiLens is a mobile app designed for the early detection and classification of 
 The app features two main functions:
 
 Automated Cataract Classification: Using advanced image processing algorithms, OptiLens identifies the severity of cataracts, providing immediate insights into users' conditions.
+
 Manual Refractive Clarity Assessment: A simple visual test allows users to monitor changes in their vision quality over time, encouraging proactive eye health management.
 
 By combining these tools, OptiLens empowers individuals with a user-friendly self-assessment tool, aiming to enhance accessibility to eye care and reduce the risk of blindness from delayed treatment.
